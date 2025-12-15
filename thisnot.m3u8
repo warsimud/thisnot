@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Europa League",Celtic - Roma 21:00
+#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Serie A",Calcio Club 23:00
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1765895405_f~0_g~1_s~0e388d49-b326-4f8f-8ce5-46d8524b0032_u~a6c09a82798a68be7620125fdb5e01902432d7310039c3d25bb1d941d73f16702bff6eeb4d4c6e0ac4d2b1682d36d66b_k~A_l~60_x~e474d7dd9560ae57eadf4f2f5a1aee8b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
-#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Europa League",Celtic - Roma 21:00
+#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Coppa do Brasil, Semifinale",Fluminense - Vasco da Gama 00:30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Serie A",Roma - Como 20:45
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ La Liga",Rayo Vallecano - Real Betis 21:00
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://techprincess.it/wp-content/uploads/2022/08/dazn-sky.jpg.webp" group-title="⚽ Premier League",Manchester United - Bournemouth 21:00
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 
