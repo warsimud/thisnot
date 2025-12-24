@@ -9,7 +9,7 @@ import requests
 
 DEBUG = True
 
-DEFAULT_LOGO = "https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png"
+DEFAULT_LOGO = "https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png"
 OUTPUT_M3U = "sport_lastminute.m3u8"
 
 HOME_URL = "https://test34344.herokuapp.com/filter.php"
