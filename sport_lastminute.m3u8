@@ -24,13 +24,13 @@ https://sky-nz.b-cdn.net/skysport1/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="1230milanvsveronaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 MILAN vs VERONA (ITA - MPD)
+#EXTINF:-1 tvg-id="1500cremonesevsnapoliitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 CREMONESE vs NAPOLI (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1766918704~exp%3D1767005104~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5c1fc4b322989afcdb5d5984d734026174ff67af8296d6b21a018c9b7c0764ae%23wm%3D1%23wmd%3D1152~hmac%3Df26a88e61dfc0d66174ce9d15adea48199bb597185aef6ba9ef3db230b660143/77iiat6ske3k13c1sbptmv7zg/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1766927703~exp%3D1767014103~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2e60f8dbebc964265f52a237d07b4091f220a47bf89f5402e8dac535817418f9%23wm%3D1%23wmd%3D1152~hmac%3Df2406b7053198ef917b569ea677a9898d3ca6c32e87567494058495a59cbbecc/19aj7h3px3k2b1kv7r7f2c8oyw/web/stream.mpd?channel=1383&mta=it&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="1230milanvsveronanlengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 MILAN vs VERONA (NL/ENG - MPD)
+#EXTINF:-1 tvg-id="1500cremonesevsnapolinlengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 CREMONESE vs NAPOLI (NL/ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
