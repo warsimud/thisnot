@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-ak-livedazn.akamaized.net/@st%3D1766894405~exp%3D1766980805~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C1267%2C30722%2C8612%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3D99c43da802e5cf5aadd21cdb7000ff232847eeafb41e513164977d857efda769/dash/dazn-linear-206/stream.mpd?p=web
+https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcwNjcyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMTI2NyIsIjMwNzIyIiwiODYxMiJdLCJpYXQiOjE3NjY5ODA4MDR9.TPz9jbOFCYJZkP2RO_NLKkD58j1Lr88olhJLJ5l30EA/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="seventvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",SEVEN TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
