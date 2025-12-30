@@ -4,7 +4,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcxNTM2MDYsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sImlhdCI6MTc2NzA2NzIwNn0.KY7sLDxyTISKOEo46Jt8H6ETNxTCI6YR3Q4uxyd0DU4/dash/dazn-linear-206/stream.mpd?p=web
+https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcxNjEzODEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiJlMWE3NGViOTg5ZGUiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sInVhIjoiNjBkY2UyOWNkZTg1ZmQ4MGU2MmQzNWU0YmU3ZTk5MzkxOGViOWMwNyIsImlhdCI6MTc2NzA3NDk4MX0.fhi3uTU3nAtQYeuEz4vTE0ycEmlt0DGlYzHS3O_DkWI/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="beinsport1frampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Bein Sport 1 (FRA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 #EXTINF:-1 tvg-id="seventvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",SEVEN TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12,23 +16,11 @@ https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJl
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-id="campionatomondialeitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale  (ITA - MPD)
+#EXTINF:-1 tvg-id="campionatomondialegermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale (GER - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767024690~exp%3D1767111090~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D07f2b4a015fdfcc4e584b5c7d07f75e0079efa85c20d0bf2a20baae9c6dc1ef0~hmac%3Dfe5da52d858f043b01616f078dd7f9b48fa8120d49143380bc777dc6b7a679e4/1x6q25egm4xsi127k31lwvkl76/web/stream.mpd?channel=3729&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="campionatomondialeitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale  (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767034504~exp%3D1767120904~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc35b316358b0c0c9327bc8df7dd229c179bbbe63461720cac20f132e0368b9e8~hmac%3D76bc6786c4df53db0e56e87481e10e87ddc3715fe615fa9edae674538cebb13b/1m7918ims9nb118tt5djlv4beg/web/stream.mpd?channel=3733&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="campionatomondialeengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale  (ENG - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-https://sky-nz.b-cdn.net/skysport1/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=d55559807cd1936d57c34e4e4dfb05ba:63288d1d7c6fa0998423d78b2e086f74
+https://ac-009.live.p7s1video.net/3840da06/t_009/sport1-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-id="2000ea7milanovsvanolicremonalbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 EA7 Milano vs Vanoli Cremona (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
