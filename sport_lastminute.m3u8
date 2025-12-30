@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcxNjEzODEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiJlMWE3NGViOTg5ZGUiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sInVhIjoiNjBkY2UyOWNkZTg1ZmQ4MGU2MmQzNWU0YmU3ZTk5MzkxOGViOWMwNyIsImlhdCI6MTc2NzA3NDk4MX0.fhi3uTU3nAtQYeuEz4vTE0ycEmlt0DGlYzHS3O_DkWI/dash/dazn-linear-206/stream.mpd?p=web
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcxNTM2MDYsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sImlhdCI6MTc2NzA2NzIwNn0.KY7sLDxyTISKOEo46Jt8H6ETNxTCI6YR3Q4uxyd0DU4/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="beinsport1frampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Bein Sport 1 (FRA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,6 +21,12 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d55559807cd1936d57c34e4e4dfb05ba:63288d1d7c6fa0998423d78b2e086f74
 https://ac-009.live.p7s1video.net/3840da06/t_009/sport1-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="campionatomondialeitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767097504~exp%3D1767183904~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D484e650c45039066e3962b874e4f4ff030dc6b5c9682d1d7ecaa0bb61df5e53f~hmac%3Dbcf2cd98e090afe399d772c8c4b20bcf6e411c3371527399e8d65e17d147c386/1bdh76p605cqu15nzavureids8/web/stream.mpd?channel=3730&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="2000ea7milanovsvanolicremonalbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 EA7 Milano vs Vanoli Cremona (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
