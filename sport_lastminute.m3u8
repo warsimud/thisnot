@@ -34,6 +34,24 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767097504~exp%3D1767183904~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767120905~exp%3D1767207305~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dde7e620660e3ac2c46b1e2df5bf6e29d8c6df137421e26a9f7cd40079fb14a4b~hmac%3Ddd78cdede4911b13ec282399d23aabae89ba6fa714007b5d7313d004ccfe072b/9hfmsu8q8z0k1ogdfnbucv5c7/web/stream.mpd?channel=3733&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="1900goldenstatevshornetsengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",19:00 Golden State vs Hornets (ENG - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
+
+#EXTINF:-1 tvg-id="2100sunsvscavaliersengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 Suns vs Cavaliers (ENG - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
+
+#EXTINF:-1 tvg-id="0100knicksvsspursengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",01:00 Knicks vs Spurs (ENG - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
+
+#EXTINF:-1 tvg-id="skysporttopeventgermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Sky Sport Top Event (GER - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+
 #EXTINF:-1 tvg-id="lbatv1lbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",LBA TV 1 (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,4 +61,8 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd|84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+
+#EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA_TV (ENG - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 
