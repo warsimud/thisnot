@@ -16,47 +16,27 @@ https://amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.n
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-id="campionatomondialegermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale (GER - MPD)
+#EXTINF:-1 tvg-id="campionatomondialesemifinaligermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale - Semifinali (GER - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d55559807cd1936d57c34e4e4dfb05ba:63288d1d7c6fa0998423d78b2e086f74
 https://ac-009.live.p7s1video.net/3840da06/t_009/sport1-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="campionatomondialeitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale  (ITA - MPD)
+#EXTINF:-1 tvg-id="campionatomondialesemifinaliitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale - Semifinali (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767381903~exp%3D1767468303~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D28de1842eea65c6ab1c1415d966aeec3853f506b140e5ddfec5e628c75c7fcb7%23wm%3D0~hmac%3D55403ec6e5402de285da93f78258fe63a31510be594b2e1676e4c67fb19874b3/6i4bzwjjw3rn1rkyn5ucbw6ft/web/stream.mpd?channel=3935&mta=it&outlet=dazn-italy&plang=it|900c0f21b76d5bd99a765de4e3a2a62c:2aaa86b7be1d216de7f98858e055e0aa
+
+#EXTINF:-1 tvg-id="2045cagliarivsmilanitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 CAGLIARI vs MILAN  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767097504~exp%3D1767183904~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D484e650c45039066e3962b874e4f4ff030dc6b5c9682d1d7ecaa0bb61df5e53f~hmac%3Dbcf2cd98e090afe399d772c8c4b20bcf6e411c3371527399e8d65e17d147c386/1bdh76p605cqu15nzavureids8/web/stream.mpd?channel=3730&mta=it&outlet=dazn-italy&plang=it
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767380403~exp%3D1767466803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1cd92ccaae603b1eadfe570d21a7b730812d5597a5d3e18878c3fbd9da7e462f%23wm%3D0~hmac%3D560b7218bbcf5d17a1f90233f86fd135c8b58b01a318be47581f63b72fca0724/17nwk33v2e8w14cu6dtyk7scx/web/stream.mpd?channel=1352&mta=it&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="campionatomondialeitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale  (ITA - MPD)
+#EXTINF:-1 tvg-id="2045cagliarivsmilanitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 CAGLIARI vs MILAN  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767120905~exp%3D1767207305~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dde7e620660e3ac2c46b1e2df5bf6e29d8c6df137421e26a9f7cd40079fb14a4b~hmac%3Ddd78cdede4911b13ec282399d23aabae89ba6fa714007b5d7313d004ccfe072b/9hfmsu8q8z0k1ogdfnbucv5c7/web/stream.mpd?channel=3733&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1900goldenstatevshornetsengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",19:00 Golden State vs Hornets (ENG - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
-
-#EXTINF:-1 tvg-id="2100sunsvscavaliersengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 Suns vs Cavaliers (ENG - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
-
-#EXTINF:-1 tvg-id="0100knicksvsspursengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",01:00 Knicks vs Spurs (ENG - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
-
-#EXTINF:-1 tvg-id="skysporttopeventgermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Sky Sport Top Event (GER - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
-https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
-
-#EXTINF:-1 tvg-id="lbatv1lbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",LBA TV 1 (LBATV1 - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1115e248cd96b220d0857c811255fa53:62ac06a0d90293bc43750162b7fd8d68
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1767388700_f~0_g~1_s~23ab19fc-fc8a-4b08-9edf-e181b22dbfc3_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_k~A_l~57_x~fd7b3d1069a8f7d19e5783c1a8a02b26/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
