@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-ac-live.cdn.indazn.com/dugongeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6W10sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIzMjY5IiwiMTI2NyIsIjM1NjEyIiwiMTI4NzQiLCIyOTQ0NyJdLCJpbnRzaWciOiJGVG8zMXBzdGE2b2ZiUl8wYTFuSHc2cGJ6OWVleXVpeW5rb0d5UW56Uy1jIiwiaWF0IjoxNzY3MjQwMDAzLCJleHAiOjE3NjczMjY0MDN9.BmFGlkiEjBt8_Ull_zBW-IyvTC9QIivW_dtWiH6MIV0/dash/dazn-linear-206/stream.mpd?p=web
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc0OTkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMzM1MiIsIjEyNjciLCIzNTYxMiIsIjEyODc0Il0sImlhdCI6MTc2NzQxMjgwNH0.DkhI0A_Hh-3AgWtgQxHrxPBMmlUaQ7LmjxBE8OJjdL4/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="beinsport1frampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Bein Sport 1 (FRA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,21 +22,35 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d55559807cd1936d57c34e4e4dfb05ba:63288d1d7c6fa0998423d78b2e086f74
 https://ac-009.live.p7s1video.net/3840da06/t_009/sport1-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="campionatomondialesemifinaliitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Campionato Mondiale - Semifinali (ITA - MPD)
+#EXTINF:-1 tvg-id="1815varesevsguerrinapolilbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:15 Varese vs Guerri Napoli (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767381903~exp%3D1767468303~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D28de1842eea65c6ab1c1415d966aeec3853f506b140e5ddfec5e628c75c7fcb7%23wm%3D0~hmac%3D55403ec6e5402de285da93f78258fe63a31510be594b2e1676e4c67fb19874b3/6i4bzwjjw3rn1rkyn5ucbw6ft/web/stream.mpd?channel=3935&mta=it&outlet=dazn-italy&plang=it|900c0f21b76d5bd99a765de4e3a2a62c:2aaa86b7be1d216de7f98858e055e0aa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="2045cagliarivsmilanitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 CAGLIARI vs MILAN  (ITA - MPD)
+#EXTINF:-1 tvg-id="1230comovsudineseitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 COMO vs UDINESE (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767380403~exp%3D1767466803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1cd92ccaae603b1eadfe570d21a7b730812d5597a5d3e18878c3fbd9da7e462f%23wm%3D0~hmac%3D560b7218bbcf5d17a1f90233f86fd135c8b58b01a318be47581f63b72fca0724/17nwk33v2e8w14cu6dtyk7scx/web/stream.mpd?channel=1352&mta=it&outlet=dazn-italy&plang=it
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1767438003~exp%3D1767524403~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6270e2600e65863dc0da74cf3541516acacf44eef12fa6790c23fece6cbffeed%23wm%3D0~hmac%3D727628ad798bb3903887cc72882b7cd2cb622b21e8b8c04db470b2247b0c8fa6/j5noj3b85zee1n6279pv3uyh6/web/stream.mpd?channel=1358&mta=it&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="2045cagliarivsmilanitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 CAGLIARI vs MILAN  (ITA - MPD)
+#EXTINF:-1 tvg-id="1500genoavspisaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 GENOA vs PISA (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115e248cd96b220d0857c811255fa53:62ac06a0d90293bc43750162b7fd8d68
-https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1767388700_f~0_g~1_s~23ab19fc-fc8a-4b08-9edf-e181b22dbfc3_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_k~A_l~57_x~fd7b3d1069a8f7d19e5783c1a8a02b26/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc0OTkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMzM1MiIsIjEyNjciLCIzNTYxMiIsIjEyODc0Il0sImlhdCI6MTc2NzQxMjgwNH0.DkhI0A_Hh-3AgWtgQxHrxPBMmlUaQ7LmjxBE8OJjdL4/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="1800juventusvslecceitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 JUVENTUS vs LECCE (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc0OTkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMzM1MiIsIjEyNjciLCIzNTYxMiIsIjEyODc0Il0sImlhdCI6MTc2NzQxMjgwNH0.DkhI0A_Hh-3AgWtgQxHrxPBMmlUaQ7LmjxBE8OJjdL4/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="2045atalantavsromaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 ATALANTA vs ROMA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115dfe8f15250a638388f701b5d69b5:6df3238856c7bf673fdf8fa8bde97ac3
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1767476951_f~0_g~1_s~65571c96-1eb8-4b22-9ec5-9001a38bc4ae_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_k~A_l~60_x~bf669869f7d7fa9dc3cd53a780cb9dde/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
