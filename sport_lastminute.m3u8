@@ -28,29 +28,17 @@ https://ac-009.live.p7s1video.net/3840da06/t_009/sport1-de-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="1500genoavspisaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 GENOA vs PISA  (ITA - MPD)
+#EXTINF:-1 tvg-id="1800juventusvslecceitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 JUVENTUS vs LECCE  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc0OTkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMzM1MiIsIjEyNjciLCIzNTYxMiIsIjEyODc0Il0sImlhdCI6MTc2NzQxMjgwNH0.DkhI0A_Hh-3AgWtgQxHrxPBMmlUaQ7LmjxBE8OJjdL4/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="1500genoavspisaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 GENOA vs PISA  (ITA - MPD)
+#EXTINF:-1 tvg-id="1800juventusvslecceitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 JUVENTUS vs LECCE  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767447903~exp%3D1767534303~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5b296acbb1f45b3e199ad338af0a736c2cad970262cf41b60be5423c5342a729%23wm%3D0~hmac%3Db3646dfe64417e1844994a73f16075da7ce715496674414da7de5a814b83f2a0/10ugwrt64acbm1gn0w0qg1xby7/web/stream.mpd?channel=1359&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1500sassuolovsparmaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 SASSUOLO vs PARMA (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767447904~exp%3D1767534304~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Ddfd1defb49e9ece263dae69c505d1779089684139dee24bc7e66fc6acaec6d74%23wm%3D0~hmac%3Dc311d6c46c3899bd1251a932497479dafbd06ae149462987c0b6fda4bbe1848d/xs2l09rhxamr1nkqvn4rvrs50/web/stream.mpd?channel=1360&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1800juventusvslecceitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 JUVENTUS vs LECCE (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc0OTkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMzM1MiIsIjEyNjciLCIzNTYxMiIsIjEyODc0Il0sImlhdCI6MTc2NzQxMjgwNH0.DkhI0A_Hh-3AgWtgQxHrxPBMmlUaQ7LmjxBE8OJjdL4/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=d5e2c2d928da53e9be6756f93f0e8f28:42b7c6918eadee253552aea798e2b2d5
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1767456003~exp%3D1767542403~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D98c5dafce5631c26e2fec9a93778210067512391f9f429c1dc741057b4cabcad%23wm%3D1%23wmd%3D1152~hmac%3D3a87bf7641c8c604c6a68eb2aaaca8e20f02db1c62a768610dab30e45bae4b98/pxdk9p1exrze1l3qjm597182c/web/stream.mpd?channel=1385&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="2045atalantavsromaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 ATALANTA vs ROMA (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
